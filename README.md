@@ -10,4 +10,4 @@
 
 ## my Web 
 
-[![Contact Icon](https://telegra.ph/file/3682e8ce5c5a8882b9526.jpg)](https://onesytex.my.id) [Visit my website](https://onesytex.my.id)
+[![Contact Icon](https://telegra.ph/file/3682e8ce5c5a8882b9526.jpg)](https://api-playground-plum.vercel.app/playground) [Visit my website](https://api-playground-plum.vercel.app/)
