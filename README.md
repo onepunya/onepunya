@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=mr.one&fontSize=80&fontColor=FF6600&fontAlignY=38&desc=javascript%20programmer%20%E2%9C%A6%20api%20architect&descAlignY=58&descSize=16&descFontColor=ffffff&animation=fadeIn)](https://api-playground-plum.vercel.app)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=onepunya&fontSize=80&fontColor=FF6600&fontAlignY=38&desc=javascript%20programmer%20%E2%9C%A6%20api%20architect&descAlignY=58&descSize=16&descFontColor=ffffff&animation=fadeIn)](https://api-playground-plum.vercel.app)
 
 <!-- TYPING EFFECT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FF6600&center=true&vCenter=true&width=500&lines=%F0%9F%92%9D+Nice+to+meet+you~+%E2%9C%B0;%E2%9B%A9%EF%B8%8F+JavaScript+Programmer;%F0%9F%8C%90+REST+API+Architect;%F0%9F%94%A5+Crafting+the+web+since+day+one;%E2%9C%A8+Enjoy+with+me...)](https://git.io/typing-svg)
